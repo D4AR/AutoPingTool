@@ -44,12 +44,12 @@ $ Check to see if your favorite sites/streaming services are online.
 ```
 
 ## FAQ
- Question. What happens if i enter an invalid IP?
-`n Answer. It shall display as DOWN as for the IP cannot be reached.
+* Question. What happens if i enter an invalid IP?
+* Answer. It shall display as DOWN as for the IP cannot be reached.
 
 
 
------------------------------------------------------------------Credit D4AR on github link---------------------------------------------------------------
+-----------------------------------------------------------------Credit D4AR on github link--------------------------------------------------------
 https://github.com/D4AR
 https://github.com/D4AR/AutoPingTool
 
