@@ -42,6 +42,7 @@ Scenarios this tool may be usefull.
 $ Checking to see if all of your IPs had connected to the internet properly.
 $ Check to see if your favorite sites/streaming services are online.
 ```
+[![WATCH TUTORIAL HERE](https://img.youtube.com/vi/0cj-rf1YDrA/0.jpg)](http://www.youtube.com/watch?v=0cj-rf1YDrA)
 
 ## FAQ
 * Question. What happens if i enter an invalid IP?
