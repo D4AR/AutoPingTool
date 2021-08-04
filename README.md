@@ -27,7 +27,7 @@ A step by step guide that will tell you how to get the development environment u
 ```
 1. After downloading the tool you will have to make a text file named "IP's" and then enter the IP's you want to ping.    
    
-2. Open powershell and navigate to the AutoPingTool folder with the cd command. e.g (cd C:\Users\insertyouruserhere\Downloads\AutoPingTool)
+2. Open powershell and navigate to the AutoPingTool folder with the cd command. e.g (cd C:\Users\insertyouruserhere\Downloads\AutoPingTool-Main)
 
 3. Run the tool using .\APT.ps1
 
