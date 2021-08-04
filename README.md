@@ -50,8 +50,9 @@ $ Check to see if your favorite sites/streaming services are online.
 
 
 -----------------------------------------------------------------Credit D4R on github link---------------------------------------------------------
-https://github.com/D4AR
-https://github.com/D4AR/AutoPingTool
+* https://github.com/D4AR/AutoPingTool
+* https://github.com/D4AR
+
 
 
 
