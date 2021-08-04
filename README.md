@@ -44,8 +44,9 @@ $ Check to see if your favorite sites/streaming services are online.
 ```
 
 
-## FAQ
 
-Question. What happens if i use a IP that isnt Valid?
 
-Answer. The IP will just display as DOWN as it is unreachable.
+
+-----------------------------------------------------------------Credit D4AR on github link---------------------------------------------------------------
+https://github.com/D4AR
+https://github.com/D4AR/AutoPingTool
