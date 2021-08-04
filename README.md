@@ -44,7 +44,7 @@ $ Check to see if your favorite sites/streaming services are online.
 ```
 
 ## FAQ
-`nQuestion. What happens if i enter an invalid IP?
+ Question. What happens if i enter an invalid IP?
 `n Answer. It shall display as DOWN as for the IP cannot be reached.
 
 
