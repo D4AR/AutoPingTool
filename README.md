@@ -12,7 +12,7 @@ A guide to get the tool up and running.
 
 ### Prerequisites
 
-Programs you may need to run this tool
+Programs you may need to run this tool and things you will have to do
 
 * A windows 10 computer
 * Powershell,which should already be installed. Or alternatively Windows Terminal.
